@@ -22,8 +22,11 @@ hence requires no manual intervention on upgrades. With other add-ons, once the
 browser updates, you would need to manually update the User Agent to keep it in
 sync with the actual browser version.
 
+For some more information, see this [blog post][3].
+
 [1]: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=748897
 [2]: https://panopticlick.eff.org/
+[3]: https://www.tablix.org/~avian/blog/archives/2015/08/improving_privacy_with_iceweasel/
 
 
 Building
@@ -37,7 +40,14 @@ To build:
 Installing
 ----------
 
-Point your browser to the XPI file created by `make`.
+To install:
+
+    $ make install
+
+You have to confirm the installation of the add-on by clicking "Install Now" in
+the pop-up.
+
+Alternatively, you can manually point your browser to the XPI file created by `make`.
 
 
 License

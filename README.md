@@ -54,10 +54,10 @@ License
 -------
 
 This extension was written by Tomaz Solc (tomaz.solc@tablix.org) and is
-licensed under the [Mozilla Public License, version 2.0][3].
+licensed under the [Mozilla Public License, version 2.0][4].
 
-It is based on the source code of [User Agent Overrider][4], which is also
+It is based on the source code of [User Agent Overrider][5], which is also
 licensed under the Mozilla Public License, version 2.0.
 
-[3]: https://www.mozilla.org/MPL/2.0/
-[4]: https://github.com/muzuiget/user_agent_overrider
+[4]: https://www.mozilla.org/MPL/2.0/
+[5]: https://github.com/muzuiget/user_agent_overrider
